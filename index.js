@@ -14,7 +14,7 @@
 //
 //
 // xhr.send();
-const token = 'eb27bcdc6e6703cd68a0d79a5f1c2f366a6fe260'
+const token = ''
 fetch('https://api.github.com/user/repos', {
   headers: {
     Authorization: `token ${token}`
